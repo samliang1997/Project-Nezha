@@ -584,3 +584,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.18-04.07.05:827][681]LogDirectoryWatcher: A directory notification failed for 'C:/Users/r3477/OneDrive/Documents/GitHub/Project-Nezha/Project_Nezha/Content/Developers/r3477/Collections/' because it could not be accessed. Aborting watch request...
 [2019.08.18-04.07.05:827][681]LogDirectoryWatcher: A directory notification failed for 'C:/Users/r3477/OneDrive/Documents/GitHub/Project-Nezha/Project_Nezha/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2019.08.18-04.07.09:011][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-04.21.53:402][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-04.21.59:089][283]LogRenderer: Reallocating scene render targets to support 2744x808 Format 10 NumSamples 1 (Frame:65175).
+[2019.08.18-04.22.46:954][117]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.18-04.22.49:872][238]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Oriental_Spear/Animations/retargeted/Locomotion/1h_Root_Run_Front.1h_Root_Run_Front
+[2019.08.18-04.22.49:873][238]LogAnimationCompression: Recompressing (AnimSequence /Game/Oriental_Spear/Animations/retargeted/Locomotion/1h_Root_Run_Front.1h_Root_Run_Front) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.18-04.22.59:675][376]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.08.18-04.22.59:717][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-04.23.00:398][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.18-04.23.03:521][770]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (1h_Root_Run_Front)
+[2019.08.18-04.23.04:167][842]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (1h_Root_Run_Front)
+[2019.08.18-04.23.04:186][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-04.23.05:185][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.08.18-04.23.09:752][440]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.18-04.23.20:618][721]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (1h_Root_Run_Front)
+[2019.08.18-04.23.24:208][142]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.18-04.23.32:687][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-04.23.38:125][166]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.18-04.23.39:103][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.08.18-04.23.53:960][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-04.26.05:021][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-04.26.06:240][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.08.18-04.26.06:245][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-04.26.06:282][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.08.18-04.26.06:398][817]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project-Nezha/Project_Nezha/Saved/ThirdPersonExampleMapE9366CB849BF8D0925DF5AB99BCBA13B.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project-Nezha/Project_Nezha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.18-04.26.06:409][817]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.157
