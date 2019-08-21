@@ -1,0 +1,907 @@
+﻿Log file open, 08/21/19 10:36:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project_Nezha
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.782821
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Engine.ini]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Engine.ini]
+[2019.08.21-00.36.24:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Engine.ini]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.21-00.36.24:025][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Engine.ini]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.21-00.36.24:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Engine.ini]
+[2019.08.21-00.36.24:026][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Engine.ini]
+[2019.08.21-00.36.24:028][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.21-00.36.24:028][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.21-00.36.24:029][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.21-00.36.24:029][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.21-00.36.24:029][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.21-00.36.24:029][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:029][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.21-00.36.24:029][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.21-00.36.24:029][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.21-00.36.24:029][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.21-00.36.24:036][  0]LogHAL: Display: Platform has ~ 16 GB [17093255168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.21-00.36.24:036][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.21-00.36.24:036][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Scalability.ini]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.21-00.36.24:036][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.21-00.36.24:037][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.21-00.36.24:037][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.21-00.36.24:037][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Config/Windows/Engine.ini]
+[2019.08.21-00.36.24:037][  0]LogInit: Computer: DESKTOP-2FH7QBQ
+[2019.08.21-00.36.24:037][  0]LogInit: User: r3477
+[2019.08.21-00.36.24:037][  0]LogInit: CPU Page size=4096, Cores=12
+[2019.08.21-00.36.24:037][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.21-00.36.24:037][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.21-00.36.24:037][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.21-00.36.24:037][  0]LogMemory: Process Physical Memory: 99.89 MB used, 99.89 MB peak
+[2019.08.21-00.36.24:037][  0]LogMemory: Process Virtual Memory: 95.95 MB used, 95.95 MB peak
+[2019.08.21-00.36.24:037][  0]LogMemory: Physical Memory: 4148.20 MB used,  12153.20 MB free, 16301.40 MB total
+[2019.08.21-00.36.24:037][  0]LogMemory: Virtual Memory: 4716.04 MB used,  134213008.00 MB free, 134217728.00 MB total
+[2019.08.21-00.36.24:050][  0]LogInit: Using OS detected language (en-GB).
+[2019.08.21-00.36.24:050][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.21-00.36.24:050][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.08.21-00.36.24:162][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.21-00.36.24:181][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.21-00.36.24:181][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.21-00.36.24:286][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.21-00.36.24:286][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.21-00.36.24:362][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2019.08.21-00.36.24:362][  0]LogD3D11RHI:       11049/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.21-00.36.24:364][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.21-00.36.24:364][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.21-00.36.24:364][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.21-00.36.24:371][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.21-00.36.24:371][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.21-00.36.24:371][  0]LogWindows: EnumDisplayDevices:
+[2019.08.21-00.36.24:371][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2019.08.21-00.36.24:371][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.08.21-00.36.24:371][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.08.21-00.36.24:372][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.08.21-00.36.24:372][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.21-00.36.24:372][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2019.08.21-00.36.24:372][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.08.21-00.36.24:372][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.08.21-00.36.24:372][  0]LogRHI: Texture pool is 7734 MB (70% of 11049 MB)
+[2019.08.21-00.36.24:411][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.21-00.36.24:418][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.21-00.36.24:419][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.21-00.36.24:419][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.21-00.36.24:432][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.21-00.36.24:688][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.21-00.36.24:699][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.21-00.36.24:710][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.21-00.36.24:721][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.21-00.36.24:732][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.21-00.36.24:743][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.21-00.36.24:754][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.21-00.36.24:765][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.21-00.36.24:770][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.21-00.36.24:841][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.21-00.36.24:842][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.21-00.36.24:890][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.21-00.36.24:891][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.21-00.36.24:911][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.21-00.36.24:911][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.21-00.36.24:921][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.21-00.36.24:931][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.21-00.36.24:941][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.21-00.36.24:952][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.21-00.36.24:989][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.21-00.36.24:989][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.21-00.36.24:989][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.21-00.36.24:995][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.21-00.36.25:022][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Intermediate/Shaders/WorkingDirectory/12988/).
+[2019.08.21-00.36.25:022][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/r3477/AppData/Local/Temp/UnrealShaderWorkingDir/B94C1A2540CABA8A9DB495815DEE621B/'.
+[2019.08.21-00.36.25:023][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.21-00.36.25:023][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.21-00.36.25:023][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.21-00.36.25:433][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.21-00.36.25:466][  0]LogDerivedDataCache: Loaded boot cache 0.03s 71MB C:/Users/r3477/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.21-00.36.25:466][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/r3477/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.21-00.36.25:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.21-00.36.25:466][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.21-00.36.25:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.21-00.36.25:466][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.21-00.36.25:477][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.21-00.36.25:477][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.21-00.36.25:477][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.21-00.36.25:490][  0]LogDerivedDataCache: Using Local data cache path C:/Users/r3477/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.21-00.36.25:490][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.21-00.36.25:490][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.21-00.36.25:508][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.21-00.36.25:509][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.21-00.36.25:509][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.21-00.36.25:578][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2019.08.21-00.36.25:852][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.21-00.36.25:949][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.21-00.36.25:949][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.21-00.36.25:949][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.21-00.36.25:949][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.21-00.36.25:949][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.21-00.36.25:957][  0]LogNetVersion: Project_Nezha 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 5268980)
+[2019.08.21-00.36.26:227][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.025748 seconds
+[2019.08.21-00.36.26:233][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.21-00.36.26:233][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.21-00.36.26:233][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.21-00.36.26:778][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.21-00.36.26:791][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.21-00.36.26:881][  0]SourceControl: Source control is disabled
+[2019.08.21-00.36.26:882][  0]SourceControl: Source control is disabled
+[2019.08.21-00.36.26:883][  0]SourceControl: Source control is disabled
+[2019.08.21-00.36.26:883][  0]SourceControl: Source control is disabled
+[2019.08.21-00.36.26:934][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.21-00.36.27:043][  0]LogOcInput: OculusInput pre-init called
+[2019.08.21-00.36.27:528][  0]LogEngine: Initializing Engine...
+[2019.08.21-00.36.27:528][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.21-00.36.27:529][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.21-00.36.27:670][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.21-00.36.27:678][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.21-00.36.27:712][  0]LogInit: XAudio2 using 'Speakers (Razer Nommo Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.21-00.36.27:740][  0]LogInit: FAudioDevice initialized.
+[2019.08.21-00.36.27:740][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.21-00.36.27:783][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/r3477/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.21-00.36.27:785][  0]LogInit: Texture streaming: Enabled
+[2019.08.21-00.36.27:797][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.21-00.36.27:818][  0]LogInit: Transaction tracking system initialized
+[2019.08.21-00.36.27:830][  0]BlueprintLog: New page: Editor Load
+[2019.08.21-00.36.27:880][  0]LocalizationService: Localization service is disabled
+[2019.08.21-00.36.28:086][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.21-00.36.28:086][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.21-00.36.28:199][  0]LogFileCache: Scanning file cache for directory 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/' took 0.02s
+[2019.08.21-00.36.28:199][  0]SourceControl: Source control is disabled
+[2019.08.21-00.36.28:199][  0]Cmd: MAP LOAD FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.21-00.36.28:200][  0]LightingResults: New page: Lighting Build
+[2019.08.21-00.36.28:201][  0]MapCheck: New page: Map Check
+[2019.08.21-00.36.28:201][  0]LightingResults: New page: Lighting Build
+[2019.08.21-00.36.28:233][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.08.21-00.36.28:452][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.21-00.36.28:461][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.21-00.36.28:493][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.08.21-00.36.28:493][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.21-00.36.28:494][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2019.08.21-00.36.28:494][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.294
+[2019.08.21-00.36.28:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-00.36.28:594][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-00.36.28:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-00.36.28:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-00.36.28:609][  0]LogCollectionManager: Loaded 0 collections in 0.000621 seconds
+[2019.08.21-00.36.28:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Collections/' took 0.01s
+[2019.08.21-00.36.28:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/Developers/r3477/Collections/' took 0.01s
+[2019.08.21-00.36.28:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/Collections/' took 0.01s
+[2019.08.21-00.36.28:652][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.21-00.36.28:660][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2732 classes and 659 folders.
+[2019.08.21-00.36.28:668][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.21-00.36.28:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.21-00.36.28:731][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.21-00.36.28:739][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.21-00.36.28:766][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.21-00.36.28:769][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.21-00.36.28:771][  0]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.21-00.36.28:811][  0]LogRenderer: Reallocating scene render targets to support 2744x808 Format 10 NumSamples 1 (Frame:1).
+[2019.08.21-00.36.28:905][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.21-00.36.28:905][  0]LogLoad: (Engine Initialization) Total time: 6.85 seconds
+[2019.08.21-00.36.28:905][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.21-00.36.28:947][  0]LogAssetRegistry: Asset discovery search completed in 3.3917 seconds
+[2019.08.21-00.36.28:949][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.21-00.36.28:949][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
+[2019.08.21-00.36.28:951][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.21-00.38.14:625][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.38.14:891][605]LogSlate: Took 0.009006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.21-00.38.14:897][605]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackward_Root.DodgeBackward_Root
+[2019.08.21-00.38.15:211][605]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.21-00.38.15:364][605]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.21-00.38.15:367][605]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.08.21-00.38.15:400][605]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.21-00.38.15:685][605]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.21-00.38.17:526][684]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackwardLeft_Root.DodgeBackwardLeft_Root
+[2019.08.21-00.38.20:075][776]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackwardRight_Root.DodgeBackwardRight_Root
+[2019.08.21-00.38.23:160][892]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForward_Root.DodgeForward_Root
+[2019.08.21-00.38.23:160][892]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForward_Root.DodgeForward_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.38.23:191][892]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForward_Root.DodgeForward_Root
+[2019.08.21-00.38.27:699][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.38.27:850][125]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardLeft_Root.DodgeForwardLeft_Root
+[2019.08.21-00.38.27:850][125]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardLeft_Root.DodgeForwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.38.27:944][125]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardLeft_Root.DodgeForwardLeft_Root
+[2019.08.21-00.38.31:204][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.38.31:329][292]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardRight_Root.DodgeForwardRight_Root
+[2019.08.21-00.38.31:329][292]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardRight_Root.DodgeForwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.38.31:423][292]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardRight_Root.DodgeForwardRight_Root
+[2019.08.21-00.38.40:649][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.38.43:892][840]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeLeft_Root.DodgeLeft_Root
+[2019.08.21-00.38.43:892][840]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeLeft_Root.DodgeLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.38.43:986][840]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeLeft_Root.DodgeLeft_Root
+[2019.08.21-00.38.48:063][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.38.48:189][ 22]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeRight_Root.DodgeRight_Root
+[2019.08.21-00.38.48:189][ 22]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeRight_Root.DodgeRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.38.48:283][ 22]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeRight_Root.DodgeRight_Root
+[2019.08.21-00.38.54:220][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.38.54:493][266]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackward_Root.RollBackward_Root
+[2019.08.21-00.39.06:131][875]LogSlate: Window 'RollBackward_Root' being destroyed
+[2019.08.21-00.39.06:151][875]LogSlate: Window 'RollBackward_Root' being destroyed
+[2019.08.21-00.39.20:375][470]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeLeft_Root.SpinDodgeLeft_Root
+[2019.08.21-00.39.20:375][470]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeLeft_Root.SpinDodgeLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.39.20:470][470]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeLeft_Root.SpinDodgeLeft_Root
+[2019.08.21-00.39.20:779][470]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.21-00.39.20:798][470]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.21-00.39.21:019][470]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.21-00.39.25:306][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.39.25:408][708]LogSlate: Window 'SpinDodgeLeft_Root' being destroyed
+[2019.08.21-00.39.25:427][708]LogSlate: Window 'SpinDodgeLeft_Root' being destroyed
+[2019.08.21-00.39.26:646][796]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeRight_Root.SpinDodgeRight_Root
+[2019.08.21-00.39.26:646][796]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeRight_Root.SpinDodgeRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.39.26:739][796]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeRight_Root.SpinDodgeRight_Root
+[2019.08.21-00.39.27:045][796]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.21-00.39.27:065][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.21-00.39.27:285][796]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.21-00.39.30:568][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.39.30:652][985]LogSlate: Window 'SpinDodgeRight_Root' being destroyed
+[2019.08.21-00.39.30:672][985]LogSlate: Window 'SpinDodgeRight_Root' being destroyed
+[2019.08.21-00.43.48:261][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackwardLeft_Root.RollBackwardLeft_Root
+[2019.08.21-00.43.48:261][129]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackwardLeft_Root.RollBackwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.43.48:263][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackwardRight_Root.RollBackwardRight_Root
+[2019.08.21-00.43.48:263][129]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackwardRight_Root.RollBackwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.43.48:264][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForward_Root.RollForward_Root
+[2019.08.21-00.43.48:264][129]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForward_Root.RollForward_Root) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.43.48:266][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForwardLeft_Root.RollForwardLeft_Root
+[2019.08.21-00.43.48:266][129]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForwardLeft_Root.RollForwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.43.48:275][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForwardRight_Root.RollForwardRight_Root
+[2019.08.21-00.43.48:275][129]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForwardRight_Root.RollForwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.43.48:277][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollLeft_Root.RollLeft_Root
+[2019.08.21-00.43.48:277][129]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollLeft_Root.RollLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.43.48:279][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollRight_Root.RollRight_Root
+[2019.08.21-00.43.48:279][129]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollRight_Root.RollRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.21-00.43.52:740][259]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.21-00.44.25:434][ 45]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.21-00.46.31:120][342]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.21-00.46.31:399][342]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.08.21-00.46.32:002][342]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.21-00.46.37:044][523]LogRenderer: Reallocating scene render targets to support 2744x900 Format 10 NumSamples 1 (Frame:1).
+[2019.08.21-00.47.04:323][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.47.36:986][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-00.47.52:520][903]LogAnimation: Warning: AnimBP combo1_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.08.21-00.47.52:520][903]LogAnimation: Warning: AnimBP combo1_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.08.21-00.47.52:521][903]LogAnimation: Warning: AnimBP combo1_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.08.21-00.47.52:521][903]LogAnimation: Warning: AnimBP combo1_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.08.21-00.47.54:005][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.47.54:072][951]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.21-00.47.54:311][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.08.21-00.47.55:315][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.08.21-00.47.56:719][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.47.58:086][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.47.58:111][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.21-00.47.58:132][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.21-00.47.58:133][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-00.47.58:133][ 78]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 21, 2019, 8:47:58 PM)
+[2019.08.21-00.47.58:146][ 78]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.21-00.47.58:156][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009376s)
+[2019.08.21-00.47.58:156][ 78]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.21-00.47.58:156][ 78]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2019.08.21-00.47.58:156][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010410s)
+[2019.08.21-00.47.58:195][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.21-00.47.58:226][ 78]LogInit: XAudio2 using 'Speakers (Razer Nommo Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.21-00.47.58:237][ 78]LogInit: FAudioDevice initialized.
+[2019.08.21-00.47.58:282][ 78]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.21-00.47.58:283][ 78]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.21-10.47.58
+[2019.08.21-00.47.58:283][ 78]LogWorld: Bringing up level for play took: 0.001190
+[2019.08.21-00.47.58:298][ 78]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.21-00.47.58:300][ 78]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.21-00.47.58:300][ 78]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.21-00.47.58:300][ 78]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.054
+[2019.08.21-00.47.58:301][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.21-00.48.06:154][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.21-00.48.06:154][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-00.48.06:200][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-00.48.06:200][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.21-00.48.06:246][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-00.48.06:266][533]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.08.21-00.48.06:299][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-00.48.06:300][534]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.08.21-00.48.06:333][534]LogSlate: Took 0.000508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.08.21-00.48.07:901][630]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.21-00.48.07:990][631]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.08.21-00.48.15:972][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-00.48.18:700][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-00.48.27:200][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.48.52:845][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.48.52:911][968]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.21-00.48.53:191][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.08.21-00.48.56:955][112]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2019.08.21-00.48.56:985][112]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_28:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.08.21-00.48.58:758][160]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2019.08.21-00.48.58:797][160]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_28:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.08.21-00.48.59:212][173]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2019.08.21-00.48.59:251][173]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_28:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.08.21-00.48.59:431][179]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.21-00.48.59:746][188]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.21-00.49.00:024][196]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2019.08.21-00.49.00:063][196]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_28:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.08.21-00.49.00:418][207]LogEditorTransaction: Undo Clicking on Components
+[2019.08.21-00.49.00:735][213]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.21-00.49.01:005][220]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.21-00.49.01:309][229]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2019.08.21-00.49.01:347][229]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_28:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.08.21-00.49.01:348][229]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CollisionCylinder) Component already registered.
+[2019.08.21-00.49.04:601][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-00.49.13:448][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-00.49.19:598][724]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.21-00.49.19:619][724]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.21-00.49.22:397][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.49.22:473][861]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.21-00.49.22:480][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.21-00.49.22:480][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-00.49.22:480][861]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 21, 2019, 8:49:22 PM)
+[2019.08.21-00.49.22:480][861]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.21-00.49.22:486][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005855s)
+[2019.08.21-00.49.22:486][861]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.21-00.49.22:486][861]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2019.08.21-00.49.22:486][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.006400s)
+[2019.08.21-00.49.22:542][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.08.21-00.49.22:571][861]LogInit: XAudio2 using 'Speakers (Razer Nommo Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.21-00.49.22:580][861]LogInit: FAudioDevice initialized.
+[2019.08.21-00.49.22:611][861]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.21-00.49.22:612][861]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.21-10.49.22
+[2019.08.21-00.49.22:612][861]LogWorld: Bringing up level for play took: 0.001258
+[2019.08.21-00.49.22:625][861]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.379
+[2019.08.21-00.49.22:625][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.21-00.49.34:284][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.21-00.49.34:284][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-00.49.34:325][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-00.49.34:325][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.21-00.49.34:365][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-00.49.34:387][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.21-00.49.34:410][547]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.08.21-00.49.45:116][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.50.24:952][838]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.21-00.50.32:120][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.50.32:187][213]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.21-00.50.56:922][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.08.21-00.50.57:115][598]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/ThirdPersonExampleMap_Auto1A1EEEC02458A3AFEDC9EEF8057EF3311.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.08.21-00.50.57:118][598]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.231
+[2019.08.21-00.50.57:118][598]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.231
+[2019.08.21-00.52.44:936][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/SpinDodgeRight_Root_2C3962E3E473B25E1F63CB4B95B089908.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/SpinDodgeRight_Root_2.uasset'
+[2019.08.21-00.52.44:964][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/SpinDodgeLeft_Root_2F6C6B02F4E712D4A439C8BA8C70EA59A.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/SpinDodgeLeft_Root_2.uasset'
+[2019.08.21-00.52.44:983][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RollRight_Root_2" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollRight_Root_2.uasset" SILENT=true
+[2019.08.21-00.52.44:992][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollRight_Root_21523E2DF4AB5CAFACE1EBFAEAED66715.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollRight_Root_2.uasset'
+[2019.08.21-00.52.45:012][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RollLeft_Root_2" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollLeft_Root_2.uasset" SILENT=true
+[2019.08.21-00.52.45:022][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollLeft_Root_2DEC8D1684AD332441FA9D498B47638D3.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollLeft_Root_2.uasset'
+[2019.08.21-00.52.45:050][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollForwardRight_Root_220ADF6444D6E42FF800F59818854EAA0.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollForwardRight_Root_2.uasset'
+[2019.08.21-00.52.45:078][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollForwardLeft_Root_2D1367CA24D54C74EC1C91EBA1A585032.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollForwardLeft_Root_2.uasset'
+[2019.08.21-00.52.45:107][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollForward_Root_222BDB59A4B40558EC7032084A920614E.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollForward_Root_2.uasset'
+[2019.08.21-00.52.45:135][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollBackwardRight_Root_2833457C446E147198C4A1AB35CC48D69.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollBackwardRight_Root_2.uasset'
+[2019.08.21-00.52.45:164][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeBackward_RootBD9E63D645BB7E0143C98C8C586B11B5.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeBackward_Root.uasset'
+[2019.08.21-00.52.45:176][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeBackward_Root7B42FC7D46C10B24C915B1A86D253A41.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/RollsAndDodges/Animations/RootMotion/DodgeBackward_Root.uasset'
+[2019.08.21-00.52.45:217][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeBackwardLeft_Root_2C27421124D763052FB1FA9A00473F270.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeBackwardLeft_Root_2.uasset'
+[2019.08.21-00.52.45:245][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeBackwardRight_Root_27C2D7DCC46A53DDF024066B715F27286.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeBackwardRight_Root_2.uasset'
+[2019.08.21-00.52.45:274][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeForward_Root_2B43F0B634ABCC75CB51B4F9984699D5D.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeForward_Root_2.uasset'
+[2019.08.21-00.52.45:303][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeForwardLeft_Root_2136D9AFF47ED3C83BC0912BDD2BB81B8.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeForwardLeft_Root_2.uasset'
+[2019.08.21-00.52.45:331][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeForwardRight_Root_2AF025E1E4F8B51B90025AF92FDCE7F64.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeForwardRight_Root_2.uasset'
+[2019.08.21-00.52.45:350][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/DodgeLeft_Root_2" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeLeft_Root_2.uasset" SILENT=true
+[2019.08.21-00.52.45:359][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeLeft_Root_2F811681449F4620A7A07A2AD87030BA4.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeLeft_Root_2.uasset'
+[2019.08.21-00.52.45:378][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/DodgeRight_Root_2" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeRight_Root_2.uasset" SILENT=true
+[2019.08.21-00.52.45:388][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeRight_Root_24149DC31401FA04FFED96EAD253F2EA5.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeRight_Root_2.uasset'
+[2019.08.21-00.52.45:416][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollBackward_Root_2FD61681E4B3A96582CEA228CA75A0729.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollBackward_Root_2.uasset'
+[2019.08.21-00.52.45:444][408]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollBackwardLeft_Root_21383020C41C82235548F938AD204DEA4.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollBackwardLeft_Root_2.uasset'
+[2019.08.21-00.52.46:706][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.08.21-00.52.46:741][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.08.21-00.52.46:780][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.08.21-00.52.46:810][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.08.21-00.52.46:842][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.08.21-00.52.46:876][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.08.21-00.52.46:909][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.08.21-00.52.46:944][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.08.21-00.52.46:983][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.21-00.52.47:018][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.08.21-00.52.47:050][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.08.21-00.52.47:085][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.08.21-00.52.47:119][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.08.21-00.52.47:154][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.08.21-00.52.47:189][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.08.21-00.52.47:225][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.08.21-00.52.47:261][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.21-00.52.47:295][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.08.21-00.52.47:328][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.08.21-00.54.25:777][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeBackward_RootEA9F55C246134534774EBABC55877BDA.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeBackward_Root.uasset'
+[2019.08.21-00.54.25:811][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/SpinDodgeRight_Root_2E4DD911C4B3842E3D302CC81C4F1150D.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/SpinDodgeRight_Root_2.uasset'
+[2019.08.21-00.54.25:846][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeBackwardLeft_Root_2548A6B444A761451FD1F63923BA57519.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeBackwardLeft_Root_2.uasset'
+[2019.08.21-00.54.25:880][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeBackwardRight_Root_2EE8449C8435801F236EEC59C4B2174E0.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeBackwardRight_Root_2.uasset'
+[2019.08.21-00.54.25:921][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeForward_Root_295C5BB52491C9CA0A1EE348BE6699A8C.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeForward_Root_2.uasset'
+[2019.08.21-00.54.25:955][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeForwardLeft_Root_209DB0F97438F4E428EA83A9D6D896EBA.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeForwardLeft_Root_2.uasset'
+[2019.08.21-00.54.25:990][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeForwardRight_Root_2066C632141717DF89FDA51B878BF60CA.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeForwardRight_Root_2.uasset'
+[2019.08.21-00.54.26:009][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/DodgeLeft_Root_2" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeLeft_Root_2.uasset" SILENT=true
+[2019.08.21-00.54.26:025][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeLeft_Root_28F1A1D444C6C4C7A4B62539AB30A5B33.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeLeft_Root_2.uasset'
+[2019.08.21-00.54.26:044][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/DodgeRight_Root_2" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeRight_Root_2.uasset" SILENT=true
+[2019.08.21-00.54.26:059][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeRight_Root_24143510A4F3DED5284A067AC2E85493E.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/DodgeRight_Root_2.uasset'
+[2019.08.21-00.54.26:094][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollBackward_Root_26DE490F44121725607B666B427D43516.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollBackward_Root_2.uasset'
+[2019.08.21-00.54.26:129][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollBackwardLeft_Root_2BC636B5640AD423A30842EA47C881885.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollBackwardLeft_Root_2.uasset'
+[2019.08.21-00.54.26:164][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollBackwardRight_Root_231BB42124E881309A6DDFAA13F14A9D6.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollBackwardRight_Root_2.uasset'
+[2019.08.21-00.54.26:200][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollForward_Root_2A4E9597940F6CA13C202ECB0F3F36C84.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollForward_Root_2.uasset'
+[2019.08.21-00.54.26:235][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollForwardLeft_Root_268A478474B8EFB7C387E8D8741864A1D.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollForwardLeft_Root_2.uasset'
+[2019.08.21-00.54.26:269][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollForwardRight_Root_2F64F8CF545BF98706B29ACAA2234B44F.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollForwardRight_Root_2.uasset'
+[2019.08.21-00.54.26:288][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RollLeft_Root_2" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollLeft_Root_2.uasset" SILENT=true
+[2019.08.21-00.54.26:305][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollLeft_Root_2792F1B1746DE17E775CF6A9636C10ECD.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollLeft_Root_2.uasset'
+[2019.08.21-00.54.26:325][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RollRight_Root_2" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollRight_Root_2.uasset" SILENT=true
+[2019.08.21-00.54.26:341][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/RollRight_Root_221B4B7C44AA56D158BD0A38C8D2E6A55.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/RollRight_Root_2.uasset'
+[2019.08.21-00.54.26:361][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Run_BS" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/Run_BS.uasset" SILENT=true
+[2019.08.21-00.54.26:378][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Run_BS991AF2514BB91C20F9EFF5B33B037A04.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/Run_BS.uasset'
+[2019.08.21-00.54.26:413][728]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/SpinDodgeLeft_Root_26D004D7D403723EA380DEBA0F4438C9F.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/SpinDodgeLeft_Root_2.uasset'
+[2019.08.21-00.54.28:532][823]LogSlate: Window '19 AnimationAsset Objects - Property Matrix Editor' being destroyed
+[2019.08.21-00.54.28:551][823]LogSlate: Window '19 AnimationAsset Objects - Property Matrix Editor' being destroyed
+[2019.08.21-00.54.58:299][100]LogSlate: Window '19 AnimationAsset Objects - Property Matrix Editor' being destroyed
+[2019.08.21-00.54.58:319][100]LogSlate: Window '19 AnimationAsset Objects - Property Matrix Editor' being destroyed
+[2019.08.21-00.55.07:195][996]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/DodgeBackward_Root.DodgeBackward_Root
+[2019.08.21-00.55.07:503][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.21-00.55.07:522][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.21-00.55.07:748][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.21-00.55.19:407][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-00.55.19:457][597]LogSlate: Window 'DodgeBackward_Root' being destroyed
+[2019.08.21-00.55.19:477][597]LogSlate: Window 'DodgeBackward_Root' being destroyed
+[2019.08.21-00.55.35:370][218]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.08.21-00.55.35:389][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.21-00.55.35:642][218]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.21-00.55.35:878][218]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.21-00.56.14:090][230]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/ThirdPerson_AnimBPE01AEC0B44D3EF92F05D1B869C2B66F7.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2019.08.21-00.56.16:794][361]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2019.08.21-00.56.16:814][361]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2019.08.21-00.56.26:324][139]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.08.21-00.56.27:099][139]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.21-00.57.05:886][ 13]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/combo1.combo1
+[2019.08.21-00.57.06:210][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.21-00.57.06:469][ 13]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.21-00.57.13:666][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/combo1" FILE="C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/combo1.uasset" SILENT=true
+[2019.08.21-00.57.13:728][270]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/combo138F9FEFE415FDEC2D5E5A69D20C8E8B7.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Content/ThirdPersonBP/combo1.uasset'
+[2019.08.21-00.57.15:941][369]LogSlate: Window 'combo1' being destroyed
+[2019.08.21-00.57.15:960][369]LogSlate: Window 'combo1' being destroyed
+[2019.08.21-00.58.54:720][943]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-00.58.54:740][943]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-00.58.58:521][193]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.21-01.00.00:237][696]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetInputLibrary::Key_IsKeyboardKey' [Element not found.]
+[2019.08.21-01.01.05:596][300]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.21-01.02.40:752][490]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2019.08.21-01.02.40:961][490]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/ThirdPersonExampleMap_Auto292E7D4C443CFA486E27BD4BB7136361A.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.08.21-01.02.40:963][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.298
+[2019.08.21-01.02.40:963][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.298
+[2019.08.21-01.02.40:965][490]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.21-01.02.40:983][490]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.21-01.02.40:984][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.08.21-01.02.41:042][490]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/ThirdPersonCharacter_Auto20BEB00A6487259A3C65C768E3F18A514.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.08.21-01.02.41:044][490]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollsAndDodges/Animations/RootMotion/DodgeBackward_Root_2] ([1] browsable assets)...
+[2019.08.21-01.02.41:053][490]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackward_Root_2.DodgeBackward_Root_2]
+[2019.08.21-01.02.41:053][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollsAndDodges/Animations/RootMotion/DodgeBackward_Root_2]
+[2019.08.21-01.02.41:063][490]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeBackward_Root_2_Auto24B8CE62B41C6442A453A3499B07F44FE.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Autosaves/Game/RollsAndDodges/Animations/RootMotion/DodgeBackward_Root_2_Auto2.uasset'
+[2019.08.21-01.02.41:063][490]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/DodgeRight_Root_2] ([1] browsable assets)...
+[2019.08.21-01.02.41:072][490]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/DodgeRight_Root_2.DodgeRight_Root_2]
+[2019.08.21-01.02.41:072][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/DodgeRight_Root_2]
+[2019.08.21-01.02.41:088][490]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/DodgeRight_Root_2_Auto25ECED65045C3790224054E94194D5EB5.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Autosaves/Game/ThirdPersonBP/DodgeRight_Root_2_Auto2.uasset'
+[2019.08.21-01.02.41:089][490]LogFileHelpers: Auto-saving content packages took 0.125
+[2019.08.21-01.12.39:885][191]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.21-01.12.40:136][191]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.08.21-01.16.59:361][972]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.21-01.16.59:561][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.08.21-01.17.10:132][528]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2019.08.21-01.17.13:557][681]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/combo1.combo1
+[2019.08.21-01.17.13:880][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.21-01.17.14:101][681]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.21-01.17.53:686][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.08.21-01.17.53:873][837]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/ThirdPersonExampleMap_Auto38BB21E0D49E2BFD58ADAA2B91B1DAF7F.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.08.21-01.17.53:875][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.228
+[2019.08.21-01.17.53:875][837]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2019.08.21-01.17.53:876][837]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.21-01.17.53:894][837]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.21-01.17.53:894][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.08.21-01.17.53:970][837]LogSavePackage: Moving 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/ThirdPersonCharacter_Auto38C2700A04301DCC26F6A3397C8DF0101.tmp' to 'C:/Users/r3477/OneDrive/Documents/GitHub/Project_Nezha/Project_Nezha/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2019.08.21-01.17.53:971][837]LogFileHelpers: Auto-saving content packages took 0.095
+[2019.08.21-01.18.03:996][341]LogUObjectArray: Warning: Empty slot
+[2019.08.21-01.18.04:006][341]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.21-01.18.04:010][341]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.004 s
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: 
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: Stack: 
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff825bcc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff825446fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff825454e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff8215437f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff821985cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff821941e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff832385984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff8325715e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff8323cd70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff8323aaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff8323a0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff849b9b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff849b8ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff849b9d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff849b8c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff8626b681d USER32.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff8626b6212 USER32.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff849b9e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff646b05d3e UE4Editor.exe!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff646b1554c UE4Editor.exe!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff646b155ca UE4Editor.exe!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff646b2316c UE4Editor.exe!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff646b25b8e UE4Editor.exe!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff863787bd4 KERNEL32.DLL!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: [Callstack] 0x00007ff8645ace71 ntdll.dll!UnknownFunction []
+[2019.08.21-01.18.04:010][341]LogOutputDevice: Error: 
+[2019.08.21-01.18.04:024][341]LogStats:                SubmitErrorReport -  0.000 s
