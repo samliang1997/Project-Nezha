@@ -72,12 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-*.log
-Project_Nezha/Saved/Logs/Project_Nezha.log
-Project_Nezha/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Project_Nezha/Saved/Logs/Project_Nezha.log
-Project_Nezha/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Project_Nezha/Saved/Config/CrashReportClient/UE4CC-Windows-46B5F377444C4DD2474EFCB14343D6A1/CrashReportClient.ini
-Project_Nezha/Saved/AutoScreenshot.png
-Project_Nezha/Intermediate/CachedAssetRegistry.bin
