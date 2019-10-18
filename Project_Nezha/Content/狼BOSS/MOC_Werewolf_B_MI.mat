@@ -1,0 +1,5 @@
+Diffuse=MOC_Werewolf_B_DIFF
+Normal=MOC_Werewolf_B_NM
+Other[0]=MOC_Werewolf_B_MC
+Other[1]=BaseNormal_TEX
+Other[2]=DefaultBaseColor_TEX
