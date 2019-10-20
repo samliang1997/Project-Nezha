@@ -1844,3 +1844,628 @@ Make sure 'Boss_C' has been compiled for  Set nezhaWeapon
 [2019.10.18-06.47.06:900][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
 [2019.10.18-06.47.07:255][773]LogSavePackage: Moving '../../../../../university/github_file/Project-Nezha/Project_Nezha/Saved/MazeMap9B9E1D584C911503053F199E667F19B9.tmp' to '../../../../../university/github_file/Project-Nezha/Project_Nezha/Content/ThirdPersonBP/Maps/Map/MazeMap.umap'
 [2019.10.18-06.47.07:302][773]LogFileHelpers: Saving map 'MazeMap' took 0.457
+[2019.10.18-06.50.26:363][618]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.18-06.50.26:393][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.50.26:393][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-06.50.26:393][618]PIE: New page: PIE session: MazeMap (19 Oct 2019 4:50:26 am)
+[2019.10.18-06.50.26:393][618]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap
+[2019.10.18-06.50.26:395][618]LogTemp: Warning: [TargetSystem] TargetSystemComponent Loaded: 4.22.0
+[2019.10.18-06.50.26:413][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020126s)
+[2019.10.18-06.50.26:415][618]LogAIModule: Creating AISystem for world MazeMap
+[2019.10.18-06.50.26:415][618]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2019.10.18-06.50.26:415][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap to /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap (0.022090s)
+[2019.10.18-06.50.26:474][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.10.18-06.50.26:478][618]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-06.50.26:503][618]LogInit: FAudioDevice initialized.
+[2019.10.18-06.50.26:510][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.50.26:541][618]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-06.50.26:547][618]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap up for play (max tick rate 60) at 2019.10.18-17.50.26
+[2019.10.18-06.50.26:548][618]LogWorld: Bringing up level for play took: 0.005776
+[2019.10.18-06.50.26:567][618]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap 0.126
+[2019.10.18-06.50.26:568][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.50.27:377][652]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.50.27:377][652]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.50.28:381][696]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.50.28:381][696]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.50.28:753][712]Set new viewmode: Unlit
+[2019.10.18-06.50.29:369][748]LogBlueprintUserMessages: [Boss_2] low speed
+[2019.10.18-06.50.29:369][748]LogBlueprintUserMessages: [Boss_2] aroundattack
+[2019.10.18-06.50.30:135][794]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.50.31:069][850]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.50.33:369][988]LogBlueprintUserMessages: [Boss_2] Meleeattack1
+[2019.10.18-06.50.34:103][ 32]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_Attack_01.A_SW_Attack_01
+[2019.10.18-06.50.36:366][167]LogBlueprintUserMessages: [Boss_2] MeleeattackCombo
+[2019.10.18-06.50.38:366][287]LogBlueprintUserMessages: [Boss_2] RollBack
+[2019.10.18-06.50.40:375][406]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.50.40:375][406]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.50.41:375][466]LogBlueprintUserMessages: [Boss_2] low speed
+[2019.10.18-06.50.41:375][466]LogBlueprintUserMessages: [Boss_2] aroundattack
+[2019.10.18-06.50.42:142][512]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.50.43:075][568]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.50.45:209][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.50.45:210][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.50.45:227][696]LogSlate: Window 'Project_Nezha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.18-06.50.45:299][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-06.50.45:299][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.50.45:365][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.10.18-06.50.45:392][697]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.10.18-06.50.49:301][868]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.18-06.50.49:333][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.50.49:333][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-06.50.49:333][868]PIE: New page: PIE session: MazeMap (19 Oct 2019 4:50:49 am)
+[2019.10.18-06.50.49:333][868]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap
+[2019.10.18-06.50.49:335][868]LogTemp: Warning: [TargetSystem] TargetSystemComponent Loaded: 4.22.0
+[2019.10.18-06.50.49:359][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026299s)
+[2019.10.18-06.50.49:360][868]LogAIModule: Creating AISystem for world MazeMap
+[2019.10.18-06.50.49:361][868]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2019.10.18-06.50.49:361][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap to /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap (0.027521s)
+[2019.10.18-06.50.49:425][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.10.18-06.50.49:429][868]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-06.50.49:458][868]LogInit: FAudioDevice initialized.
+[2019.10.18-06.50.49:465][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.50.49:496][868]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-06.50.49:502][868]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap up for play (max tick rate 60) at 2019.10.18-17.50.49
+[2019.10.18-06.50.49:503][868]LogWorld: Bringing up level for play took: 0.005761
+[2019.10.18-06.50.49:521][868]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap 1.081
+[2019.10.18-06.50.49:521][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.50.50:310][910]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.50.50:310][910]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.50.51:312][962]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.50.51:313][962]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.50.52:307][ 14]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.50.52:307][ 14]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.50.53:318][ 67]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.50.53:318][ 67]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.50.53:984][101]Set new viewmode: Unlit
+[2019.10.18-06.50.54:307][120]LogBlueprintUserMessages: [Boss_2] RollBack
+[2019.10.18-06.50.56:308][240]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.50.58:307][360]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.51.00:308][480]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.00:308][480]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.01:307][540]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.01:307][540]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.02:308][600]LogBlueprintUserMessages: [Boss_2] Meleeattack3
+[2019.10.18-06.51.02:941][638]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_Attack_04.A_SW_Attack_04
+[2019.10.18-06.51.05:308][780]LogBlueprintUserMessages: [Boss_2] Meleeattack3
+[2019.10.18-06.51.05:941][818]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_Attack_04.A_SW_Attack_04
+[2019.10.18-06.51.08:302][957]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.08:302][957]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.09:302][ 17]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.09:302][ 17]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.10:302][ 77]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.10:302][ 77]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.11:303][137]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.11:303][137]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.12:303][197]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.12:303][197]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.13:303][257]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.51.15:303][377]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.51.18:307][556]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.51.21:308][736]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.51.24:307][916]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.51.26:308][ 36]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.26:308][ 36]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.27:308][ 96]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.27:308][ 96]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.28:308][156]LogBlueprintUserMessages: [Boss_2] RollBack
+[2019.10.18-06.51.30:308][276]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.51.30:308][276]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.51.31:308][336]LogBlueprintUserMessages: [Boss_2] low speed
+[2019.10.18-06.51.31:308][336]LogBlueprintUserMessages: [Boss_2] aroundattack
+[2019.10.18-06.51.32:075][382]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.51.33:008][438]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.51.35:308][576]LogBlueprintUserMessages: [Boss_2] Meleeattack2
+[2019.10.18-06.51.38:309][756]LogBlueprintUserMessages: [Boss_2] Meleeattack1
+[2019.10.18-06.51.39:042][800]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_Attack_01.A_SW_Attack_01
+[2019.10.18-06.51.41:309][936]LogBlueprintUserMessages: [Boss_2] MeleeattackCombo
+[2019.10.18-06.51.43:309][ 56]LogBlueprintUserMessages: [Boss_2] MeleeattackCombo
+[2019.10.18-06.51.45:309][176]LogBlueprintUserMessages: [Boss_2] avoidback
+[2019.10.18-06.51.47:309][296]LogBlueprintUserMessages: [Boss_2] Meleeattack2
+[2019.10.18-06.51.50:310][476]LogBlueprintUserMessages: [Boss_2] Meleeattack3
+[2019.10.18-06.51.50:943][514]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_Attack_04.A_SW_Attack_04
+[2019.10.18-06.51.53:310][656]LogBlueprintUserMessages: [Boss_2] Meleeattack2
+[2019.10.18-06.51.56:310][836]LogBlueprintUserMessages: [Boss_2] avoidback
+[2019.10.18-06.51.59:310][ 16]LogBlueprintUserMessages: [Boss_2] Meleeattack2
+[2019.10.18-06.52.02:311][196]LogBlueprintUserMessages: [Boss_2] RollBack
+[2019.10.18-06.52.04:311][316]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.04:311][316]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.05:311][376]LogBlueprintUserMessages: [Boss_2] low speed
+[2019.10.18-06.52.05:311][376]LogBlueprintUserMessages: [Boss_2] aroundattack
+[2019.10.18-06.52.06:077][422]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.52.06:595][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.06:595][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.52.06:612][453]LogSlate: Window 'Project_Nezha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.18-06.52.06:657][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-06.52.06:657][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.06:729][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.10.18-06.52.06:748][454]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.10.18-06.52.07:931][495]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.18-06.52.07:958][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.07:958][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-06.52.07:958][495]PIE: New page: PIE session: MazeMap (19 Oct 2019 4:52:07 am)
+[2019.10.18-06.52.07:959][495]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap
+[2019.10.18-06.52.07:960][495]LogTemp: Warning: [TargetSystem] TargetSystemComponent Loaded: 4.22.0
+[2019.10.18-06.52.07:978][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019073s)
+[2019.10.18-06.52.07:979][495]LogAIModule: Creating AISystem for world MazeMap
+[2019.10.18-06.52.07:979][495]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2019.10.18-06.52.07:979][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap to /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap (0.020320s)
+[2019.10.18-06.52.08:030][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.18-06.52.08:032][495]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-06.52.08:057][495]LogInit: FAudioDevice initialized.
+[2019.10.18-06.52.08:064][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.52.08:094][495]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-06.52.08:102][495]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap up for play (max tick rate 60) at 2019.10.18-17.52.08
+[2019.10.18-06.52.08:103][495]LogWorld: Bringing up level for play took: 0.007513
+[2019.10.18-06.52.08:120][495]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap -0.321
+[2019.10.18-06.52.08:120][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.08:936][538]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.08:936][538]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.09:944][590]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.09:944][590]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.10:036][595]Set new viewmode: Unlit
+[2019.10.18-06.52.10:942][649]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.10:942][649]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.11:942][709]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.11:942][709]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.12:942][769]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.12:942][769]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.13:963][818]LogBlueprintUserMessages: [Boss_2] Meleeattack2
+[2019.10.18-06.52.16:945][979]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.16:945][979]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.17:945][ 39]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.17:945][ 39]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.18:945][ 99]LogBlueprintUserMessages: [Boss_2] MeleeattackCombo
+[2019.10.18-06.52.20:945][219]LogBlueprintUserMessages: [Boss_2] RollBack
+[2019.10.18-06.52.22:946][339]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.22:946][339]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.22:996][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.22:996][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.52.23:013][342]LogSlate: Window 'Project_Nezha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.18-06.52.23:057][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-06.52.23:057][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.23:142][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.10.18-06.52.23:170][343]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.10.18-06.52.24:162][387]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.18-06.52.24:187][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.24:187][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-06.52.24:187][387]PIE: New page: PIE session: MazeMap (19 Oct 2019 4:52:24 am)
+[2019.10.18-06.52.24:187][387]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap
+[2019.10.18-06.52.24:189][387]LogTemp: Warning: [TargetSystem] TargetSystemComponent Loaded: 4.22.0
+[2019.10.18-06.52.24:206][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019010s)
+[2019.10.18-06.52.24:208][387]LogAIModule: Creating AISystem for world MazeMap
+[2019.10.18-06.52.24:208][387]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2019.10.18-06.52.24:208][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap to /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap (0.020625s)
+[2019.10.18-06.52.24:262][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.10.18-06.52.24:265][387]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-06.52.24:290][387]LogInit: FAudioDevice initialized.
+[2019.10.18-06.52.24:298][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.52.24:329][387]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-06.52.24:336][387]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap up for play (max tick rate 60) at 2019.10.18-17.52.24
+[2019.10.18-06.52.24:337][387]LogWorld: Bringing up level for play took: 0.006900
+[2019.10.18-06.52.24:355][387]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap -0.086
+[2019.10.18-06.52.24:355][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.25:168][430]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.25:168][430]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.26:038][476]Set new viewmode: Unlit
+[2019.10.18-06.52.26:176][484]LogBlueprintUserMessages: [Boss_2] low speed
+[2019.10.18-06.52.26:176][484]LogBlueprintUserMessages: [Boss_2] aroundattack
+[2019.10.18-06.52.26:943][530]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.52.27:876][586]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Boss/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2019.10.18-06.52.30:176][724]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.30:176][724]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.31:176][784]LogBlueprintUserMessages: [Boss_2] Meleeattack2
+[2019.10.18-06.52.34:177][964]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.34:177][964]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.35:177][ 24]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.36:062][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] defend
+[2019.10.18-06.52.36:160][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] Blocked
+[2019.10.18-06.52.38:177][204]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.41:177][384]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.43:178][504]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.46:178][684]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.48:178][804]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.48:780][840]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] defend
+[2019.10.18-06.52.48:781][840]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] Blocked
+[2019.10.18-06.52.50:178][924]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.52:178][ 44]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.52.52:178][ 44]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.52.52:429][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.52:429][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.52.52:446][ 59]LogSlate: Window 'Project_Nezha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.18-06.52.52:488][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-06.52.52:489][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.52:555][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.10.18-06.52.52:580][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.10.18-06.52.53:610][106]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.18-06.52.53:640][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.53:640][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-06.52.53:640][106]PIE: New page: PIE session: MazeMap (19 Oct 2019 4:52:53 am)
+[2019.10.18-06.52.53:640][106]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap
+[2019.10.18-06.52.53:642][106]LogTemp: Warning: [TargetSystem] TargetSystemComponent Loaded: 4.22.0
+[2019.10.18-06.52.53:664][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023692s)
+[2019.10.18-06.52.53:665][106]LogAIModule: Creating AISystem for world MazeMap
+[2019.10.18-06.52.53:665][106]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2019.10.18-06.52.53:665][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap to /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap (0.024804s)
+[2019.10.18-06.52.53:726][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.18-06.52.53:730][106]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-06.52.53:761][106]LogInit: FAudioDevice initialized.
+[2019.10.18-06.52.53:769][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.52.53:799][106]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-06.52.53:806][106]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap.MazeMap up for play (max tick rate 60) at 2019.10.18-17.52.53
+[2019.10.18-06.52.53:807][106]LogWorld: Bringing up level for play took: 0.007488
+[2019.10.18-06.52.53:826][106]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Map/UEDPIE_0_MazeMap -0.615
+[2019.10.18-06.52.53:826][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.52.54:617][148]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.55:899][216]Set new viewmode: Unlit
+[2019.10.18-06.52.56:622][259]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.52.57:091][287]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] defend
+[2019.10.18-06.52.57:155][291]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] Blocked
+[2019.10.18-06.52.58:623][379]LogBlueprintUserMessages: [Boss_2] RangeAttack
+[2019.10.18-06.53.00:623][499]LogBlueprintUserMessages: [Boss_2] JumpAttack
+[2019.10.18-06.53.00:623][499]LogAnimMontage: Warning: Playing a Montage (E_Ability_Attack_A_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (Yin_Skeleton).
+[2019.10.18-06.53.01:623][559]LogBlueprintUserMessages: [Boss_2] Meleeattack2
+[2019.10.18-06.53.04:623][739]LogBlueprintUserMessages: [Boss_2] avoidback
+[2019.10.18-06.53.06:674][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.53.06:675][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-06.53.06:691][862]LogSlate: Window 'Project_Nezha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.18-06.53.06:736][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-06.53.06:736][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Map/MazeMap.MazeMap:PersistentLevel.MazeMap'
+[2019.10.18-06.53.06:800][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.18-06.53.06:818][863]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.10.18-06.56.10:208][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.10.18-06.56.10:522][ 48]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.18-06.56.10:639][ 48]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.18-06.56.10:951][ 48]LogSlate: Window 'bossWeapon' being destroyed
+[2019.10.18-06.56.10:956][ 48]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.18-06.56.11:025][ 48]LogSlate: Window 'Project_Nezha - Unreal Editor' being destroyed
+[2019.10.18-06.56.11:026][ 48]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.18-06.56.11:375][ 49]Cmd: QUIT_EDITOR
+[2019.10.18-06.56.12:083][ 49]LogExit: Preparing to exit.
+[2019.10.18-06.56.13:161][ 49]LogExit: Editor shut down
+[2019.10.18-06.56.13:163][ 49]LogExit: Transaction tracking system shut down
+[2019.10.18-06.56.13:980][ 49]LogExit: Object subsystem successfully closed.
+[2019.10.18-06.56.14:003][ 49]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.18-06.56.14:017][ 49]LogD3D11RHI: Shutdown
+[2019.10.18-06.56.14:017][ 49]LogD3D11RHI: CleanupD3DDevice
+[2019.10.18-06.56.14:019][ 49]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.18-06.56.14:019][ 49]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.18-06.56.14:019][ 49]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.18-06.56.14:019][ 49]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.18-06.56.14:019][ 49]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.18-06.56.14:019][ 49]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.18-06.56.14:327][ 49]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.18-06.56.14:340][ 49]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (666)
+[2019.10.18-06.56.14:340][ 49]LogModuleManager: Shutting down and abandoning module AnimationEditor (664)
+[2019.10.18-06.56.14:340][ 49]LogModuleManager: Shutting down and abandoning module PinnedCommandList (662)
+[2019.10.18-06.56.14:340][ 49]LogModuleManager: Shutting down and abandoning module SkeletonEditor (660)
+[2019.10.18-06.56.14:340][ 49]LogModuleManager: Shutting down and abandoning module SequencerWidgets (658)
+[2019.10.18-06.56.14:340][ 49]LogModuleManager: Shutting down and abandoning module BlueprintGraph (656)
+[2019.10.18-06.56.14:340][ 49]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (654)
+[2019.10.18-06.56.14:340][ 49]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2019.10.18-06.56.14:356][ 49]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (650)
+[2019.10.18-06.56.14:356][ 49]LogModuleManager: Shutting down and abandoning module SceneOutliner (648)
+[2019.10.18-06.56.14:356][ 49]LogModuleManager: Shutting down and abandoning module AddContentDialog (646)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module WidgetCarousel (645)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module EditorWidgets (642)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module CollectionManager (640)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module MeshBuilder (638)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module StatsViewer (636)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module FoliageEdit (634)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module LandscapeEditor (632)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module MeshPaintMode (630)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (628)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module ActorPickerMode (626)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module GeometryMode (624)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module TextureAlignMode (622)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module BspMode (620)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (618)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (616)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module AutomationWorker (614)
+[2019.10.18-06.56.14:359][ 49]LogModuleManager: Shutting down and abandoning module OculusMR (612)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (610)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (608)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (606)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module PlacementMode (605)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MaterialEditor (604)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (600)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (598)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (596)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (594)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (592)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module WebMMedia (590)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (588)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (586)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module SequenceRecorder (585)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (582)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (580)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (578)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (576)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (574)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (572)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (570)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (568)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (566)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (564)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (562)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module CharacterAI (560)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module SmartSnapping (558)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module SessionServices (556)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module MeshPaint (554)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module ViewportSnapping (552)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module ViewportInteraction (550)
+[2019.10.18-06.56.14:360][ 49]LogModuleManager: Shutting down and abandoning module ClothPainter (548)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (547)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module LogVisualizer (544)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module IntroTutorials (542)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (541)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (538)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (536)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (534)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (532)
+[2019.10.18-06.56.14:361][ 49]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (531)
+[2019.10.18-06.56.15:368][ 49]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (528)
+[2019.10.18-06.56.15:368][ 49]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (526)
+[2019.10.18-06.56.15:368][ 49]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (524)
+[2019.10.18-06.56.15:368][ 49]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (522)
+[2019.10.18-06.56.15:368][ 49]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (520)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module InputBindingEditor (518)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module MergeActors (516)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (514)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module LocalizationService (513)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module HardwareTargeting (510)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (508)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module UndoHistory (506)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module XmlParser (504)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module Blutility (502)
+[2019.10.18-06.56.15:369][ 49]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (500)
+[2019.10.18-06.56.15:370][ 49]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (499)
+[2019.10.18-06.56.15:371][ 49]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (496)
+[2019.10.18-06.56.15:371][ 49]LogModuleManager: Shutting down and abandoning module SettingsEditor (494)
+[2019.10.18-06.56.15:371][ 49]LogModuleManager: Shutting down and abandoning module ProjectLauncher (492)
+[2019.10.18-06.56.15:371][ 49]LogModuleManager: Shutting down and abandoning module SessionFrontend (490)
+[2019.10.18-06.56.15:371][ 49]LogModuleManager: Shutting down and abandoning module ProfilerClient (488)
+[2019.10.18-06.56.15:371][ 49]LogModuleManager: Shutting down and abandoning module DeviceManager (486)
+[2019.10.18-06.56.15:372][ 49]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (485)
+[2019.10.18-06.56.15:414][ 49]LogModuleManager: Shutting down and abandoning module AutomationController (482)
+[2019.10.18-06.56.15:414][ 49]LogModuleManager: Shutting down and abandoning module AutomationWindow (480)
+[2019.10.18-06.56.15:414][ 49]LogModuleManager: Shutting down and abandoning module Layers (478)
+[2019.10.18-06.56.15:414][ 49]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (476)
+[2019.10.18-06.56.15:414][ 49]LogModuleManager: Shutting down and abandoning module DetailCustomizations (474)
+[2019.10.18-06.56.15:415][ 49]LogModuleManager: Shutting down and abandoning module PackagesDialog (472)
+[2019.10.18-06.56.15:415][ 49]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (470)
+[2019.10.18-06.56.15:415][ 49]LogModuleManager: Shutting down and abandoning module Persona (468)
+[2019.10.18-06.56.15:415][ 49]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (467)
+[2019.10.18-06.56.15:416][ 49]LogModuleManager: Shutting down and abandoning module AnimGraph (465)
+[2019.10.18-06.56.15:416][ 49]LogModuleManager: Shutting down and abandoning module Kismet (462)
+[2019.10.18-06.56.15:434][ 49]LogModuleManager: Shutting down and abandoning module GraphEditor (460)
+[2019.10.18-06.56.15:434][ 49]LogModuleManager: Shutting down and abandoning module ClassViewer (458)
+[2019.10.18-06.56.15:438][ 49]LogModuleManager: Shutting down and abandoning module Toolbox (456)
+[2019.10.18-06.56.15:438][ 49]LogModuleManager: Shutting down and abandoning module ModuleUI (454)
+[2019.10.18-06.56.15:438][ 49]LogModuleManager: Shutting down and abandoning module MovieSceneTools (452)
+[2019.10.18-06.56.15:438][ 49]LogModuleManager: Shutting down and abandoning module OutputLog (450)
+[2019.10.18-06.56.15:438][ 49]LogModuleManager: Shutting down and abandoning module GammaUI (448)
+[2019.10.18-06.56.15:438][ 49]LogModuleManager: Shutting down and abandoning module Documentation (446)
+[2019.10.18-06.56.15:438][ 49]LogModuleManager: Shutting down and abandoning module LiveCoding (444)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module LevelSequence (442)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (440)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module MovieScene (438)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (436)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module LauncherPlatform (434)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module AnalyticsET (432)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module PortalServices (430)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module PortalRpc (428)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module MessagingRpc (426)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module AIModule (424)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module GameplayDebugger (423)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module AITestSuite (421)
+[2019.10.18-06.56.15:439][ 49]LogModuleManager: Shutting down and abandoning module NavigationSystem (419)
+[2019.10.18-06.56.15:440][ 49]LogModuleManager: Shutting down and abandoning module DesktopPlatform (416)
+[2019.10.18-06.56.15:440][ 49]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (414)
+[2019.10.18-06.56.15:449][ 49]LogModuleManager: Shutting down and abandoning module ProfilerService (412)
+[2019.10.18-06.56.15:458][ 49]LogModuleManager: Shutting down and abandoning module TaskGraph (410)
+[2019.10.18-06.56.15:458][ 49]LogModuleManager: Shutting down and abandoning module SteamVRController (408)
+[2019.10.18-06.56.15:458][ 49]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (406)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (404)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module OculusEditor (402)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module OculusInput (400)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (398)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module EditableMesh (396)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (394)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module CableComponent (392)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module AudioCapture (390)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (388)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module AndroidPermission (386)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (384)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (382)
+[2019.10.18-06.56.15:459][ 49]LogModuleManager: Shutting down and abandoning module MediaCompositing (380)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module LinearTimecode (378)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module ImgMedia (376)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (374)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (372)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (370)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2019.10.18-06.56.15:460][ 49]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (336)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2019.10.18-06.56.15:461][ 49]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (314)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.10.18-06.56.15:462][ 49]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module SignificanceManager (300)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (290)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module ApexDestruction (288)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.10.18-06.56.15:463][ 49]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.10.18-06.56.15:564][ 49]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module TargetSystem (280)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.10.18-06.56.15:665][ 49]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.10.18-06.56.15:665][ 49]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.10.18-06.56.15:666][ 49]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.10.18-06.56.15:669][ 49]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.10.18-06.56.15:670][ 49]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.10.18-06.56.15:670][ 49]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.10.18-06.56.15:671][ 49]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.10.18-06.56.15:679][ 49]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.10.18-06.56.15:688][ 49]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.10.18-06.56.15:689][ 49]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.10.18-06.56.15:690][ 49]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.10.18-06.56.15:690][ 49]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.10.18-06.56.15:690][ 49]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.10.18-06.56.15:690][ 49]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.10.18-06.56.15:690][ 49]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.10.18-06.56.15:699][ 49]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.10.18-06.56.15:700][ 49]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.10.18-06.56.15:700][ 49]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.10.18-06.56.15:700][ 49]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.10.18-06.56.15:700][ 49]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.10.18-06.56.15:706][ 49]LogDerivedDataCache: Shutdown
+[2019.10.18-06.56.15:706][ 49]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.10.18-06.56.15:707][ 49]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.10.18-06.56.15:707][ 49]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.10.18-06.56.15:707][ 49]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.10.18-06.56.15:707][ 49]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.10.18-06.56.15:707][ 49]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.10.18-06.56.15:708][ 49]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.10.18-06.56.15:708][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.10.18-06.56.15:708][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.10.18-06.56.15:708][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.10.18-06.56.15:708][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.10.18-06.56.15:708][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.10.18-06.56.15:709][ 49]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.10.18-06.56.15:709][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.10.18-06.56.15:709][ 49]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.10.18-06.56.15:709][ 49]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.10.18-06.56.15:709][ 49]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.10.18-06.56.15:709][ 49]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.10.18-06.56.15:742][ 49]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.10.18-06.56.15:742][ 49]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.10.18-06.56.15:742][ 49]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.10.18-06.56.15:742][ 49]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.10.18-06.56.15:742][ 49]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.10.18-06.56.15:748][ 49]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.10.18-06.56.15:748][ 49]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.10.18-06.56.15:754][ 49]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.10.18-06.56.15:754][ 49]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.10.18-06.56.15:797][ 49]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.10.18-06.56.15:798][ 49]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.18-06.56.15:798][ 49]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.18-06.56.15:798][ 49]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.18-06.56.15:798][ 49]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.18-06.56.15:798][ 49]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.18-06.56.15:798][ 49]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.18-06.56.15:798][ 49]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.18-06.56.15:798][ 49]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.18-06.56.15:800][ 49]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.18-06.56.15:800][ 49]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.18-06.56.15:833][ 49]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.18-06.56.15:834][ 49]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.18-06.56.15:834][ 49]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5467348-403A-0981-87DB-FE9E947FC392%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=45f47b264aa4b7f36db5078e647cbd09%7C7404182135974f3485369f2b42884164%7C983b1560-5cc6-45d0-9144-7fe949679042&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.18-06.56.15:854][ 49]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.18-06.56.15:856][ 49]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.18-06.56.15:856][ 49]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.18-06.56.15:863][ 49]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.18-06.56.15:863][ 49]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.18-06.56.15:864][ 49]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.18-06.56.15:877][ 49]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.18-06.56.15:877][ 49]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.18-06.56.15:878][ 49]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.18-06.56.15:878][ 49]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.18-06.56.15:878][ 49]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.18-06.56.15:878][ 49]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.18-06.56.15:882][ 49]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.18-06.56.15:893][ 49]LogExit: Exiting.
+[2019.10.18-06.56.15:938][ 49]Log file closed, 10/18/19 17:56:15
